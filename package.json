@@ -1,0 +1,14 @@
+{
+  "name": "emendas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main-es2015.2f157786a7a69c6b7790.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
